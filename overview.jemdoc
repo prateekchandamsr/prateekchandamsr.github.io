@@ -11,7 +11,7 @@ The number of \ad-hoc\ wireless devices and the amount of wireless data consumed
 On a more abstract level, the question of distributed scheduling of links can be thought of as a spatial \ packing\ problem where one is interested in putting as many \items\(a.k.a wireless links) in space as possible without having to compromise on link quality. We are currently exploring this angle of the scheduling problem.
 
 
-
+*Related Publications* \n [Draft_4.pdf CSMA k-SIC: A Class of Distributed MAC Protocols and their Performance Evaluation] co-authoured with [https://www.ma.utexas.edu/users/baccelli/ François Baccelli]], accepted for publication at IEEE INFOCOM 2015.
 
  The results of this work are to appear in Infocom 2015.
 ~~
