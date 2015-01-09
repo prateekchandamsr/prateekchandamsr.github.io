@@ -20,4 +20,4 @@
  - Research Problem was on certain techniques to mitigate \congestion\ in Electric Power Systems by adopting \scheduling\ strategies
  - Formulated the congestion control as an estimation problem and formulated a graphical model framework to solve the probelm.
  - Wrote up a large scale  Belief Propagation tbased mesage passing code to efficiently infer the unknown states to use it in the estimation.
- - Formulated the scheduling as a convex program and wrote code in MATLAB to solve it.
+ - Formulated the scheduling as a convex program and wrote code in MATLAB to solve it..
