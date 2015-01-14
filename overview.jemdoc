@@ -1,4 +1,6 @@
 # jemdoc: menu{MENU}{overview.html}
+# jemdoc: notime
+# jemdoc: nodate
 = Abishek Sankararaman - Research
 
 === Distributed Scheduling in Dense Wireless Networks
