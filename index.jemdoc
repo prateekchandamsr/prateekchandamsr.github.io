@@ -21,7 +21,7 @@ I am currently a 5th year PhD student in the  Electrical and Computer Engineerin
 
 == News
 
-- New Preprint - [CommDet.pdf Community Detection on Euclidean Random Graphs].
+- Paper [CommDet.pdf Community Detection on Euclidean Random Graphs] accepted to ACM-SODA 2018.
 - Successfully passed the PhD Proposal Exam. Here is the [QualReport.pdf report] and [Proposal_Slides.pdf slides].
 
 
@@ -29,8 +29,9 @@ I am currently a 5th year PhD student in the  Electrical and Computer Engineerin
 == Research Interests
 
 - Random Graphs
+- Stochastic Dynamics
 - Statistical Learning
 - Social Networks
-- Stochastic Dynamics
+- Wireless Networks
 
-More broadly, I am always intrigued by randomness and its surprising impact it has on designing algorithms for the real world.
+More broadly, I am always intrigued by randomness and the surprising impact it has on designing algorithms for the real world.
