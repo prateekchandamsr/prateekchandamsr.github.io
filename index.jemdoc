@@ -17,21 +17,20 @@ Advisor: [http://www.ma.utexas.edu/users/baccelli/ François Baccelli]\n
 ~~~
 ==
 \n
-I am currently a 5th year PhD student in the  Electrical and Computer Engineering depratment at The University of Texas at Austin. I am also affiliated with the [https://www.ma.utexas.edu/simons/ Simons Center for Mathematics ]
+I am currently a 5th year PhD student in the  Electrical and Computer Engineering depratment at UT Austin. \n I am also affiliated with the [https://www.ma.utexas.edu/simons/ Simons Center for Mathematics ]
 
 == News
 
 - Paper [CommDet.pdf Community Detection on Euclidean Random Graphs] accepted in ACM-SIAM SODA 2018.
 
-
-
-
 == Research Interests
 
 - Random Graphs
-- Stochastic Dynamics
-- Statistical Learning
+- Stochastic Dynamical Systems
 - Social Networks
-- Wireless Networks
+- Machine Learning
 
-More broadly, I am always intrigued by randomness and the surprising impact it has on designing algorithms for the real world.
+More broadly, I am always intrigued by randomness and the surprisingly crucial role it plays in designing algorithms for the real world. Shoot me an email if you have any comments, suggestions or want to collaborate on a problem. I am on the lookout for new questions to think about :)
+
+
+
