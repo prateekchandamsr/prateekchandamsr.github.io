@@ -6,10 +6,22 @@
 
 == Preprints 
 
-- [blockchain.pdf Stability and Scalability of Blockchain Systems] \n Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath \n\n
+- [blockchain.pdf Stability and Scalability of Blockchain Systems] \n Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath \n
 
 == Journal Articles
 
+- [Social_Learning.pdf Social Learning in Multi Agent Multi Armed Bandits] \n Abishek Sankararaman, Ayalvadi Ganesh, Sanjay Shakkottai \n  Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), December 2019. \n\n
+
+- [haplotype_arxiv.pdf ComHapDet: A Spatial Community Detection Algorithm for Haplotype Assembly] \n Abishek Sankararaman, Haris Vikalo, François Baccelli  \n  BMC Genomics, 2020.(To Appear)
+
+-  [Interference_Networks_Arxiv.pdf Interference Queueing Networks on Grids] \n Abishek Sankararaman, François Baccelli, Sergey Foss \n Annals of Applied Probability, 2019, Vol 29, No. 5, 2929-2987 \n\n
+
+-  [CommDet_IMA.pdf Community Detection on Euclidean Random Graphs]  \n  Abishek Sankararaman, Emmanuel Abbe, François Baccelli  \n 
+    Under Submission \n Information and Inference : A journal of the Institute of Mathematics and Applications (IMA), 2020. (To Appear) \n \n
+
+-  [SBD_TIT.pdf Spatial Birth-Death Wireless Networks] \n Abishek Sankararaman, François Baccelli \n  IEEE Transactions on Information Theory, June 2017.
+
+== Refereed Conference Papers
 
 
 - [gossip_bandits.pdf The Gossiping Insert-Eliminate Algorithm for Multi-Agent Bandits] \n Ronshee Chawla, Abishek Sankararaman, Ayalvadi Ganesh and Sanjay Shakkottai \n AISTATS 2020 (To Appear) \n\n
@@ -17,15 +29,13 @@
 
 - [Social_Learning.pdf Social Learning in Multi Agent Multi Armed Bandits] \n Abishek Sankararaman, Ayalvadi Ganesh, Sanjay Shakkottai \n  ACM SIGMETRICS 2020 (To Appear) \n\n
 
-- [haplotype_arxiv.pdf ComHapDet: A Spatial Community Detection Algorithm for Haplotype Assembly] \n Abishek Sankararaman, Haris Vikalo, François Baccelli  \n  BMC Genomics (To Appear) \n Extended Abstract in ACM CNB-MAC 2019 \n\n
+- [haplotype_arxiv.pdf ComHapDet: A Spatial Community Detection Algorithm for Haplotype Assembly] \n Abishek Sankararaman, Haris Vikalo, François Baccelli  \n  ACM CNB-MAC 2019 \n\n
 
- 
--  [Interference_Networks_Arxiv.pdf Interference Queueing Networks on Grids] \n Abishek Sankararaman, François Baccelli, Sergey Foss \n Annals of Applied Probability, 2019, Vol 29, No. 5, 2929-2987 \n\n
 
--  [CommDet.pdf Community Detection on Euclidean Random Graphs]  \n  Abishek Sankararaman, Emmanuel Abbe, François Baccelli  \n 
-    Under Submission \n Extended Abstract in the proceedings of ACM-SIAM Symposiom on Discrete Algorithms (SODA) 2018 \n \n
+-  [CommDet.pdf Community Detection on Euclidean Random Graphs]  \n  Abishek Sankararaman, François Baccelli  \n 
+    ACM-SIAM Symposiom on Discrete Algorithms (SODA) 2018 \n \n
 
--  [SBD_TIT.pdf Spatial Birth-Death Wireless Networks] \n Abishek Sankararaman, François Baccelli \n  IEEE Transactions on Information Theory, June 2017 \n Extended abstract in the proceedings of Allerton 2016 \n \n
+-  [SBD_TIT.pdf Spatial Birth-Death Wireless Networks] \n Abishek Sankararaman, François Baccelli \n  Allerton 2016 \n \n
 -  [Draft_ITC_Arxiv.pdf  Performance-Oriented Association in Large Cellular Networks with Technology Diversity] \n Abishek Sankararaman, Jeong-woo Cho,  François Baccelli \n Proceedings of 28th International Teletraffic Congress (ITC-28), 2016 \n \n
 -  [Draft_4.pdf  CSMA k-SIC : A Class of Distributed MAC Protocols and their Performance Evaluation] \n Abishek Sankararaman, François Baccelli \n  Proceedings of IEEE INFOCOM 2015 / / \n \n
 
