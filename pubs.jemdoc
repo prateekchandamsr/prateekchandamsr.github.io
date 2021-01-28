@@ -8,9 +8,6 @@
 
 - [multi-agent-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n\n
 
-- [matching-bandits.pdf Dominate or Delete: Decentralized Competing Bandits with Uniform Valuation] \n Abishek Sankararaman, Soumya Basu (Joint First Authors) and Karthik Abinav Sankararaman \n\n
-
-- [Adaptive_Linear_Bandits.pdf Problem-Complexity Adaptive Model Selection for Stochastic Linear Bandits] \n Avishek Ghosh, Abishek Sankararaman and Kannan Ramachandran \n A Short version to be presented at The Theoretical Foundations of Reinforcement Learning Workshop, co-located with ICML 2020 \n\n
 
 - [ergodicity_interfq.pdf Ergodicity and steady state analysis for Interference Queueing Networks] \n Sayan Banerjee and Abishek Sankararaman (Authors ordered alphabetically by last name)
 
@@ -30,6 +27,10 @@
 -  [SBD_TIT.pdf Spatial Birth-Death Wireless Networks] \n Abishek Sankararaman, François Baccelli \n  IEEE Transactions on Information Theory, June 2017. \n [SBD-slides.pdf Slides]
 
 == Refereed Conference Papers
+
+- [matching-bandits.pdf Dominate or Delete: Decentralized Competing Bandits with Uniform Valuation] \n Abishek Sankararaman, Soumya Basu (Joint First Authors) and Karthik Abinav Sankararaman \n AISTATS 2021 \n \n
+
+- [Adaptive_Linear_Bandits.pdf Problem-Complexity Adaptive Model Selection for Stochastic Linear Bandits] \n Avishek Ghosh, Abishek Sankararaman and Kannan Ramachandran \n AISTATS 2021 \n A Short version presented at The Theoretical Foundations of Reinforcement Learning Workshop, co-located with ICML 2020 \n\n
 
 - [blockchain.pdf Stability and Scalability of Blockchain Systems] \n Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath \n ACM SIGMETRICS 2020 \n [https://www.youtube.com/watch?v=ScZJOWXHyHs Video] \n\n
 
