@@ -41,7 +41,7 @@ Multi-Agent Stochastic Linear Bandits
 
 - FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers, \n Abishek Sankararaman, Vikramank Singh, Zhao Song, Balakrishnan (Murali) Narayanaswamy, \n ICML 2022 \n \n 
 
-- Breaking the $\sqrt{T}$ Barrier: Instance Independent Logarithmic Regret for Contextual Bandits, \n Avishek Ghosh, Abishek Sankararaman \n ICML 2022 \n \n
+- Breaking the $ \sqrt{T}$ Barrier: Instance Independent Logarithmic Regret for Contextual Bandits, \n Avishek Ghosh, Abishek Sankararaman \n ICML 2022 \n \n
 
 - [beyond_log_square.pdf Beyond $\log^2(T)$ Regret for Decentralized Bandits in
 Matching Markets] \n Soumya Basu, Karthik Abinav Sankararaman, Abishek Sankararaman \n ICML 2021 \n \n
