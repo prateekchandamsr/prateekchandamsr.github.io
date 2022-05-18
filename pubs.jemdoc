@@ -14,14 +14,15 @@
 Multi-Agent Stochastic Linear Bandits
 ] \n Avishek Ghosh, Abishek Sankararaman (Joint First Authors) and Kannan Ramachandran \n\n 
 
-- [multi-agent-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n\n
-
-
 
 
 == Journal Articles
 
-- [ergodicity_interfq.pdf Ergodicity and steady state analysis for Interference Queueing Networks] \n Sayan Banerjee and Abishek Sankararaman (Authors ordered alphabetically by last name) \n AMS Contemporary Mathematics: Special volume in honor of M. M. Rao, to appear (2021)
+- [multi-agent-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n IEEE Transactions on Automatic Control, 2022 (to appear)\n
+
+
+- [ergodicity_interfq.pdf Ergodicity and steady state analysis for Interference Queueing Networks] \n Sayan Banerjee and Abishek Sankararaman (Authors ordered alphabetically by last name) \n AMS Contemporary Mathematics: Special volume in honor of M. M. Rao, 2021
+
 
 - [blockchain.pdf Stability and Scalability of Blockchain Systems] \n Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath \n Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), June 2020. \n\n
 
@@ -37,6 +38,10 @@ Multi-Agent Stochastic Linear Bandits
 -  [SBD_TIT.pdf Spatial Birth-Death Wireless Networks] \n Abishek Sankararaman, François Baccelli \n  IEEE Transactions on Information Theory, June 2017. \n [SBD-slides.pdf Slides]
 
 == Refereed Conference Papers
+
+- FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers, \n Abishek Sankararaman, Vikramank Singh, Zhao Song, Balakrishnan (Murali) Narayanaswamy, \n ICML 2022 \n \n 
+
+- Breaking the $\sqrt{T}$ Barrier: Instance Independent Logarithmic Regret for Contextual Bandits, \n Avishek Ghosh, Abishek Sankararaman \n ICML 2022 \n \n
 
 - [beyond_log_square.pdf Beyond $\log^2(T)$ Regret for Decentralized Bandits in
 Matching Markets] \n Soumya Basu, Karthik Abinav Sankararaman, Abishek Sankararaman \n ICML 2021 \n \n
