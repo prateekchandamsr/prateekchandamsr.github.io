@@ -7,7 +7,7 @@
 == Preprints
 
 - [non-stationary-markets.pdf Decentralized Competing Bandits in Non-Stationary Matching Markets] \n 
- Avishek Ghosh, Abishek Sankararaman, Kannan Ramachandran, Arya Mazumdar, Tara Javidi \n\n
+ Avishek Ghosh, Abishek Sankararaman, Kannan Ramachandran, Arya Mazumdar, Tara Javidi \n \n
 
 - [generic_model_selection.pdf Model Selection for Generic Contextual Bandits
 ]  \n Avishek Ghosh, Abishek Sankararaman and Kannan Ramachandran \n\n 
@@ -15,22 +15,22 @@
 
 == Journal Articles
 
-- [multi-agent-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n IEEE Transactions on Automatic Control, 2022 (to appear)\n
+- [multi-agent-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n IEEE Transactions on Automatic Control, 2022 \n\n 
 
 
-- [ergodicity_interfq.pdf Ergodicity and steady state analysis for Interference Queueing Networks] \n Sayan Banerjee and Abishek Sankararaman (Authors ordered alphabetically by last name) \n AMS Contemporary Mathematics: Special volume in honor of M. M. Rao, 2021
+- [ergodicity_interfq.pdf Ergodicity and steady state analysis for Interference Queueing Networks] \n Sayan Banerjee and Abishek Sankararaman (Authors ordered alphabetically by last name) \n AMS Contemporary Mathematics: Special volume in honor of M. M. Rao, 2021 \n\n 
 
 
 - [blockchain.pdf Stability and Scalability of Blockchain Systems] \n Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath \n Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), June 2020. \n\n
 
 - [Social_Learning.pdf Social Learning in Multi Agent Multi Armed Bandits] \n Abishek Sankararaman, Ayalvadi Ganesh, Sanjay Shakkottai \n  Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), December 2019. \n\n
 
-- [bmc_genomics.pdf ComHapDet: A Spatial Community Detection Algorithm for Haplotype Assembly] \n Abishek Sankararaman, Haris Vikalo, François Baccelli  \n  BMC Genomics, 2020. \n
+- [bmc_genomics.pdf ComHapDet: A Spatial Community Detection Algorithm for Haplotype Assembly] \n Abishek Sankararaman, Haris Vikalo, François Baccelli  \n  BMC Genomics, 2020. \n \n
 
 -  [Interference_Networks_Arxiv.pdf Interference Queueing Networks on Grids] \n Abishek Sankararaman, François Baccelli, Sergey Foss \n Annals of Applied Probability, 2019, Vol 29, No. 5, 2929-2987 \n [interference-queues-slides.pdf Slides]\n\n
 
 -  [CommDet_IMA.pdf Community Detection on Euclidean Random Graphs]  \n  Abishek Sankararaman, Emmanuel Abbe, François Baccelli  \n 
-    Information and Inference : A journal of the Institute of Mathematics and Applications (IMA), 2020. \n [com-det-slides.pdf Slides] \n
+    Information and Inference : A journal of the Institute of Mathematics and Applications (IMA), 2020. \n [com-det-slides.pdf Slides] \n \n
 
 -  [SBD_TIT.pdf Spatial Birth-Death Wireless Networks] \n Abishek Sankararaman, François Baccelli \n  IEEE Transactions on Information Theory, June 2017. \n [SBD-slides.pdf Slides]
 
