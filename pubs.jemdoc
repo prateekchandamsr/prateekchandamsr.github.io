@@ -36,7 +36,7 @@
 
 == Refereed Conference Papers
 
-- FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers, \n Abishek Sankararaman, Balakrishnan (Murali) Narayanaswamy, Vikramank Singh, Zhao Song \n ICML 2022 \n \n 
+- [fitness_ad.pdf FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers], \n Abishek Sankararaman, Balakrishnan (Murali) Narayanaswamy, Vikramank Singh, Zhao Song \n ICML 2022 \n \n 
 
 - [log-regret.pdf Breaking the $ \sqrt{T}$ Barrier: Instance Independent Logarithmic Regret for Contextual Bandits], \n Avishek Ghosh, Abishek Sankararaman \n ICML 2022 \n \n
 
