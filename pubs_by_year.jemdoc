@@ -4,6 +4,10 @@
 = Publications by Year
 ==
 
+== 2023
+
+- Online heavy-tailed change point detection, \n Abishek Sankararaman, Balakrishnan (Murali) Narayanaswamy, \n *UAI 2023*
+
 == 2022
 
 - [fitness_ad.pdf FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers], \n Abishek Sankararaman, Balakrishnan (Murali) Narayanaswamy, Vikramank Singh, Zhao Song \n *ICML 2022* \n [ICML_Fitness_Slides.pdf Slides]
